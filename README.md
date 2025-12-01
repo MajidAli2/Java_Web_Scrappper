@@ -1,6 +1,6 @@
 # Java_Web_Scrapepper
 
-A Java-based web scraper application for extracting and processing source code and data from websites.
+A Java-based web scraper application for extracting and processing source code from websites.
 
 ## Features
 - Web scraping capabilities

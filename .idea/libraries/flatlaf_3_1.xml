@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="flatlaf-3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20240303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.21.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
